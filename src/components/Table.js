@@ -5,7 +5,7 @@ const Table = ({ people }) => {
     <table>
       <thead>
         <tr>
-          <th>Name</th>
+          <th>Name!</th>
           <th>Birthdate</th>
         </tr>
       </thead>
